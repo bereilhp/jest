@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bereilhp/jest/issues"
   },
-  "homepage": "https://github.com/bereilhp/jest#readme"
+  "homepage": "https://github.com/bereilhp/jest#readme",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
 }
